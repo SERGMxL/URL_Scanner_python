@@ -1,4 +1,4 @@
-URL Malware Scanner
+# URL Malware Scanner
 Un sencillo analizador de URLs de escritorio con una interfaz gráfica de usuario (GUI) construida en Python. Esta herramienta utiliza la API de Google Safe Browsing para verificar si un sitio web está marcado como malicioso o contiene amenazas de seguridad como malware o phishing.
 
 ✨ Características Principales
